@@ -1,6 +1,6 @@
 <?php 
 $project_name = 'alexsyw';
-include 'www\new_head.php';
+include 'www/new_head.php';
 
 $random = rand(1, 2);
 if ($random == 1 ) {
