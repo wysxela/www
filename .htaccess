@@ -1,1 +1,3 @@
-ErrorDocument 404 http://alexsywindows.io
+ErrorDocument 404 http://alexsywindows.io/error
+ErrorDocument 500 http://alexsywindows.io/error
+ErrorDocument 400 http://alexsywindows.io/error
