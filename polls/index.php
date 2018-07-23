@@ -1,6 +1,6 @@
 <?php
 $project_name = 'alexsyw polls';
-include 'www/new_head.php';
+include 'www\new_head.php';
 
 $random = rand(1, 4);
 echo '<div id="vk_poll"></div>';
